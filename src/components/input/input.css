@@ -1,0 +1,8 @@
+.input {
+    border: 0;
+    border-top: 1px dashed black;
+    border-radius: 2px;
+    height: 40px;
+    color: purple;
+    padding: 7px 15px 7px 15px;
+}

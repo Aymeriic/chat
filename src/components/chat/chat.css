@@ -1,0 +1,9 @@
+.chat {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: auto;
+    background-color: whitesmoke;
+    border-radius: 8px;
+    box-shadow: 0px 0px 6px 0px black;
+}
